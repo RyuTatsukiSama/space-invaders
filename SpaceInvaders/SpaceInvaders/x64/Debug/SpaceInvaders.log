@@ -1,0 +1,17 @@
+﻿  Common.cpp
+  EnergyBoltPool.cpp
+  GameFSM.cpp
+D:\Loic\repo\space-invaders\SpaceInvaders\Common.h(7,10): error C1083: Impossible d'ouvrir le fichier include : 'SFML/Window.hpp' : No such file or directory
+D:\Loic\repo\space-invaders\SpaceInvaders\PlasmaBolt.h(3,10): error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+D:\Loic\repo\space-invaders\SpaceInvaders\InputHandler.h(5,10): error C1083: Impossible d'ouvrir le fichier include : 'SFML/Window.hpp' : No such file or directory
+  GameState.cpp
+D:\Loic\repo\space-invaders\SpaceInvaders\InputHandler.h(5,10): error C1083: Impossible d'ouvrir le fichier include : 'SFML/Window.hpp' : No such file or directory
+  PlasmaBolt.cpp
+D:\Loic\repo\space-invaders\SpaceInvaders\PlasmaBolt.h(3,10): error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+  InputHandler.cpp
+D:\Loic\repo\space-invaders\SpaceInvaders\InputHandler.h(5,10): error C1083: Impossible d'ouvrir le fichier include : 'SFML/Window.hpp' : No such file or directory
+  Main.cpp
+D:\Loic\repo\space-invaders\SpaceInvaders\Common.h(7,10): error C1083: Impossible d'ouvrir le fichier include : 'SFML/Window.hpp' : No such file or directory
+  Spaceship.cpp
+D:\Loic\repo\space-invaders\SpaceInvaders\Spaceship.h(3,10): error C1083: Impossible d'ouvrir le fichier include : 'SFML/Graphics.hpp' : No such file or directory
+  Génération de code en cours...
