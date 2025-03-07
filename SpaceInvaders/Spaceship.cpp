@@ -18,7 +18,7 @@ Spaceship::~Spaceship()
 
 void Spaceship::openFire()
 {
-	PlasmaBolt* bolt = bolt_pool_->createBolt(Plasma::BLUE);
+	PlasmaBolt* bolt = bolt_pool_->createBolt(Plasma::RED);
 	if (bolt)
 		bolt->moveTo(transform_.getPosition().x-w_/4, transform_.getPosition().y - h_/2);
 }
