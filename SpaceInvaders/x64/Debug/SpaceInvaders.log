@@ -1,0 +1,40 @@
+﻿  Common.cpp
+D:\Loic\repo\space-invaders\SpaceInvaders\Common.cpp(12,73): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+D:\Loic\repo\space-invaders\SpaceInvaders\Common.cpp(12,73): warning C4244:         with
+D:\Loic\repo\space-invaders\SpaceInvaders\Common.cpp(12,73): warning C4244:         [
+D:\Loic\repo\space-invaders\SpaceInvaders\Common.cpp(12,73): warning C4244:             T=unsigned int
+D:\Loic\repo\space-invaders\SpaceInvaders\Common.cpp(12,73): warning C4244:         ]
+D:\Loic\repo\space-invaders\SpaceInvaders\Common.cpp(12,73): warning C4244:         and
+D:\Loic\repo\space-invaders\SpaceInvaders\Common.cpp(12,73): warning C4244:         [
+D:\Loic\repo\space-invaders\SpaceInvaders\Common.cpp(12,73): warning C4244:             T=float
+D:\Loic\repo\space-invaders\SpaceInvaders\Common.cpp(12,73): warning C4244:         ]
+D:\Loic\repo\space-invaders\SpaceInvaders\Common.cpp(12,55): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+D:\Loic\repo\space-invaders\SpaceInvaders\Common.cpp(12,55): warning C4244:         with
+D:\Loic\repo\space-invaders\SpaceInvaders\Common.cpp(12,55): warning C4244:         [
+D:\Loic\repo\space-invaders\SpaceInvaders\Common.cpp(12,55): warning C4244:             T=unsigned int
+D:\Loic\repo\space-invaders\SpaceInvaders\Common.cpp(12,55): warning C4244:         ]
+D:\Loic\repo\space-invaders\SpaceInvaders\Common.cpp(12,55): warning C4244:         and
+D:\Loic\repo\space-invaders\SpaceInvaders\Common.cpp(12,55): warning C4244:         [
+D:\Loic\repo\space-invaders\SpaceInvaders\Common.cpp(12,55): warning C4244:             T=float
+D:\Loic\repo\space-invaders\SpaceInvaders\Common.cpp(12,55): warning C4244:         ]
+D:\Loic\repo\space-invaders\SpaceInvaders\Common.cpp(28,28): warning C4018: '<' : incompatibilité signed/unsigned
+D:\Loic\repo\space-invaders\SpaceInvaders\Common.cpp(29,28): warning C4018: '<' : incompatibilité signed/unsigned
+  EnergyBoltPool.cpp
+  GameFSM.cpp
+  GameState.cpp
+  PlasmaBolt.cpp
+  InputHandler.cpp
+  Main.cpp
+  Spaceship.cpp
+D:\Loic\repo\space-invaders\SpaceInvaders\Spaceship.cpp(11,48): warning C4244: 'argument' : conversion de 'float' en 'T', perte possible de données
+D:\Loic\repo\space-invaders\SpaceInvaders\Spaceship.cpp(11,48): warning C4244:         with
+D:\Loic\repo\space-invaders\SpaceInvaders\Spaceship.cpp(11,48): warning C4244:         [
+D:\Loic\repo\space-invaders\SpaceInvaders\Spaceship.cpp(11,48): warning C4244:             T=int
+D:\Loic\repo\space-invaders\SpaceInvaders\Spaceship.cpp(11,48): warning C4244:         ]
+D:\Loic\repo\space-invaders\SpaceInvaders\Spaceship.cpp(11,44): warning C4244: 'argument' : conversion de 'float' en 'T', perte possible de données
+D:\Loic\repo\space-invaders\SpaceInvaders\Spaceship.cpp(11,44): warning C4244:         with
+D:\Loic\repo\space-invaders\SpaceInvaders\Spaceship.cpp(11,44): warning C4244:         [
+D:\Loic\repo\space-invaders\SpaceInvaders\Spaceship.cpp(11,44): warning C4244:             T=int
+D:\Loic\repo\space-invaders\SpaceInvaders\Spaceship.cpp(11,44): warning C4244:         ]
+  Génération de code en cours...
+  SpaceInvaders.vcxproj -> D:\Loic\repo\space-invaders\x64\Debug\SpaceInvaders.exe
